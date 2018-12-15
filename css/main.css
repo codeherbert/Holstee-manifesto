@@ -1,0 +1,118 @@
+body {
+	font-family: 'Bitter', serif;
+	font-size: 28px;
+  	height: 1200px;
+	line-height: 30px;
+	text-align: justify;
+	text-transform: capitalize;
+}
+
+.section {
+	background-color: #85e0e0;
+	border: 1px solid black;
+	margin: 0 auto;
+	width: 542px;
+}
+
+.align-1 {
+	text-align: left;
+	margin: auto;
+}
+
+.align-2 {
+	text-align: justify;
+}
+
+.font-1 {
+	font-size: 45px;
+	line-height: 38px;
+}
+
+#font-2 {
+	font-size: 125px;
+}
+
+.font-3 {
+	font-size: 21px;
+}
+
+.font-4 {
+	font-size: 15px;
+}
+
+#font-5 {
+	font-size: 75px;
+	line-height: 60px;
+}
+
+#font-6 {
+	font-size: 50px;
+}
+
+#font-7 {
+	font-size: 40px;
+}
+
+.font-8 {
+	font-size: 22.1px;
+}
+
+.font-9 {
+	font-size: 45px;
+	margin: auto;
+}
+
+.font-10 {
+	font-size: 22px;
+}
+
+.font-11 {
+	font-size: 27px;
+	font-weight: bold;
+}
+
+.box-1 {
+	float: left;
+	margin: 5px;
+	width: 260px;
+}
+
+.box-2 {
+	float: left;
+	height: 153px;
+	line-height: 153px;
+	margin: 5px;
+	text-align: center;
+	vertical align: middle;
+	width: 260px;
+}
+
+.box-3 {
+	clear: both;
+}
+
+.box-4 {
+	float: left;
+	margin: 5px;
+	width: 280px;
+}
+
+.box-5 {
+	float: left;
+	margin: 5px;
+	width: 290px;
+}
+
+.box-6 {
+	float: left;
+	margin: 5px;
+	width: 250px;
+}
+
+.box-7 {
+	clear: both;
+}
+
+.box-8 {
+	line-height: 40px;
+}
